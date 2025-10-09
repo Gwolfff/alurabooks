@@ -52,3 +52,7 @@
     background-clip: text;
     text-transform: uppercase;
 }
+
+.conteiner__botao {
+    display: none;
+}
